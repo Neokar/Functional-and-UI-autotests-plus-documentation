@@ -1,4 +1,4 @@
-# Module-28-Finall-project
+# Functional-and-UI-autotests-plus-documentation
 
 Тестовая документация (тест-кейсы, баг-репорты) - https://docs.google.com/spreadsheets/d/1tOKHa8FSQeLzQ3fDzs52tPSAzCsn98JFZIuzDlDpTQA/edit?usp=sharing
 
